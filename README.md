@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome!
+## I'm Nelson! A Lifelong Software Engineer & Problem Solver 🚀
 
-<!--
-**Nelson-Modro/Nelson-Modro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For over 30 years, I've been doing what I love: building software. I've led projects from the first line of code to the final user training, giving me a unique, end-to-end perspective on what makes a system truly successful.
 
-Here are some ideas to get you started:
+My technical journey began in the foundational world of Mainframes with COBOL. I then transitioned to building powerful desktop applications with VB6, before evolving alongside the .NET Framework to master VB.NET, WPF, and now C#. Throughout this evolution, my work has consistently been supported by deep expertise in relational databases, primarily SQL Server, ensuring that every solution is built on a solid data foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A developer's greatest skill is adaptability. I thrive on solving complex problems, learning new technologies, and focusing on what truly matters: **delivering results**.
+
+I'm currently seeking a new challenge in an international remote role where I can help a great team build amazing things.
+
+**Find me around the web:**
+- 💼 Connecting and sharing on [LinkedIn](https://www.linkedin.com/in/nelson-modro/)
+- 📧 Reach me by [Email](mailto:jrmodro@gmail.com)
+
+Thanks for visiting.
