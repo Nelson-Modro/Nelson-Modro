@@ -1,5 +1,5 @@
 # Welcome!
-## I'm Nelson! A Lifelong .NET Software Engineer & Problem Solver 🚀
+## I'm Nelson! A Senior .NET Software Engineer & Problem Solver 🚀
 
 For over 30 years, I've been doing what I love: building software. I've led projects from the first line of code to the final user training, giving me a unique, end-to-end perspective on what makes a system truly successful.
 
